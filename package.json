@@ -1,0 +1,28 @@
+{
+	"name": "semicolon.js",
+	"version": "0.1.0",
+	"description": "Web development, redefined.",
+	"homepage": "http://semicolonjs.com",
+	"main": "semicolon.js",
+	"scripts": {
+		"test": "node test && echo ✔"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/semicolon-package/semicolon.js.git"
+	},
+	"keywords": [
+		"semicolon",
+		"framework",
+		"devrant",
+		"joke"
+	],
+	"author": "Cozy Planes",
+	"contributors": [
+		"Skayo <jonasg.cool@gmail.com> (https://skayo.github.io)"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/semicolon-package/semicolon.js/issues"
+	}
+}

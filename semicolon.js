@@ -6,6 +6,8 @@
 
 	semicolon.english = function() { return 'semicolon'; };
 	semicolon.korean = function() { return '세미콜론'; };
+	semicolon.german = function() { return 'Semikolon'; };
+
 	semicolon.twins = function() { return ';'; }; //greek question mark
 	semicolon.len = function() { return 1; };
 

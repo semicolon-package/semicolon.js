@@ -66,6 +66,6 @@ You can download the package here: [Download ZIP](<https://github.com/devBanner/
 
 ## License
 
-[MIT](https://github.com/semicolon-package/semicolon.js/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/semicolon-package/semicolon.js/blob/master/LICENSE)
 
 

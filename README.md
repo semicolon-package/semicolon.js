@@ -9,9 +9,7 @@
 <h4 align="center">Web development, redefined.</h4>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/npm%20package-0.1.0-brightgreen.svg" alt="NPM Version">
-  </a>
+  <a href="https://npmjs.com/package/semicolon.js"><img src="https://img.shields.io/badge/npm%20package-0.2.0-brightgreen.svg" alt="NPM"></a>
   <a href="https://gitter.im/devBanner/Lobby"><img src="http://badges.gitter.im/devBanner/Lobby.svg" alt="Gitter"></a>
 </p>
 
@@ -50,7 +48,27 @@ semicolon(); // ;
 semicolon.law(); // The Law of Semicolons states simply that: semicolons makes you chilled all the time.
 ```
 
-##### ...
+##### Multilingual
+```javascript
+semicolon.english(); // semicolon
+semicolon.korean(); // 세미콜론
+semicolon.german(); // semikolon
+```
+
+##### Length
+```javascript
+semicolon.len(); // 1
+```
+
+##### Twins
+```javascript
+semicolon.twins(); // ; (greek question mark)
+```
+
+##### Assertion
+```javascript
+semicolon.isSemicolon(','); // false
+```
 
 
 ## Download

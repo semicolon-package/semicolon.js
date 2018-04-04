@@ -9,7 +9,7 @@
 <h4 align="center">Web development, redefined.</h4>
 
 <p align="center">
-  <a href="https://npmjs.com/package/semicolon.js"><img src="https://img.shields.io/badge/npm%20package-0.2.0-brightgreen.svg" alt="NPM"></a>
+  <a href="https://npmjs.com/package/semicolon.js"><img src="https://badge.fury.io/js/semicolon.js.svg" alt="NPM"></a>
   <a href="https://gitter.im/devBanner/Lobby"><img src="http://badges.gitter.im/devBanner/Lobby.svg" alt="Gitter"></a>
 </p>
 

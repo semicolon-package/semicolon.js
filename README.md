@@ -70,6 +70,35 @@ semicolon.twins(); // ; (greek question mark)
 semicolon.isSemicolon(','); // false
 ```
 
+##### Cryptography
+```javascript
+semicolon.mdSemicolon(); // 9eecb7db59d16c80417c72d1e1f4fbf1
+semicolon.bcryptSemicolon(); // $2y$10$tvI086gYYhR6SfNO1sLAueVMFgjf.sXEcLJaDOpRjxJ2Z3FIpsqIu
+```
+
+##### Different radices
+```javascript
+semicolon.binary(); // 111011
+semicolon.octal(); // 73
+semicolon.hex(); // 3b
+semicolon.base(4); // 323
+semicolon.base(3); // 2012
+```
+
+##### Asynchronous Usage
+```javascript
+semicolon.async(function(err, semicolon) {
+  // semicolon === ';'
+});
+```
+
+##### Filter, Map and Reduce
+```javascript
+semicolon.filter([';', true, ';']); // [';', ';']
+semicolon.map([1, 2, 3]); // [';', ';', ';']
+semicolon.reduce([1, 2, 3]); // ;
+```
+
 
 ## Download
 

@@ -1,6 +1,6 @@
 {
 	"name": "semicolon.js",
-	"version": "0.1.0",
+	"version": "0.1.2",
 	"description": "Web development, redefined.",
 	"homepage": "http://semicolonjs.com",
 	"main": "semicolon.js",
@@ -17,11 +17,11 @@
 		"devrant",
 		"joke"
 	],
-	"author": "Cozy Planes <cozyplanes@gmail.com> (https://cozyplanes.github.io)",
+	"author": "Cozyplanes <cozyplanes@gmail.com> (https://cozyplanes.github.io)",
 	"contributors": [
 		"Skayo <jonasg.cool@gmail.com> (https://skayo.github.io)"
 	],
-	"license": "MIT",
+	"license": "Apache License 2.0",
 	"bugs": {
 		"url": "https://github.com/semicolon-package/semicolon.js/issues"
 	}

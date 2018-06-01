@@ -104,6 +104,10 @@ semicolon.reduce([1, 2, 3]); // ;
 
 You can download the package here: [Download ZIP](<https://github.com/devBanner/devBanner_Frontend/archive/gh-pages.zip>)
 
+Or with npm:
+```shell
+$ npm install semicolon.js
+```
 
 ## Credits
 

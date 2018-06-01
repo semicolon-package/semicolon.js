@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://npmjs.com/package/semicolon.js"><img src="https://badge.fury.io/js/semicolon.js.svg" alt="NPM"></a>
   <a href="https://gitter.im/devBanner/Lobby"><img src="http://badges.gitter.im/devBanner/Lobby.svg" alt="Gitter"></a>
+  <a href="https://npmjs.com/package/semicolon.js"><img src="https://img.shields.io/npm/dt/semicolon.js.svg" alt="Downloads" ></a>
 </p>
 
 <p align="center">

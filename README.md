@@ -44,7 +44,7 @@ var semicolon = require('semicolon');
 semicolon(); // ;
 ```
 
-##### The Law of Fives
+##### The Law of Semicolons
 ```javascript
 semicolon.law(); // The Law of Semicolons states simply that: semicolons makes you chilled all the time.
 ```

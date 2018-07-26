@@ -103,7 +103,7 @@ semicolon.reduce([1, 2, 3]); // ;
 
 ## Download
 
-You can download the package here: [Download ZIP](<https://github.com/devBanner/devBanner_Frontend/archive/gh-pages.zip>)
+You can download the package here: [Download ZIP](<https://github.com/semicolon-package/semicolon.js/archive/master.zip>)
 
 Or with npm:
 ```shell

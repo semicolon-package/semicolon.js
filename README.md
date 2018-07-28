@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Web development, redefined.</h4>
+<h4 align="center">Web development, redefined</h4>
 
 <p align="center">
   <a href="https://npmjs.com/package/semicolon.js"><img src="https://badge.fury.io/js/semicolon.js.svg" alt="NPM"></a>
